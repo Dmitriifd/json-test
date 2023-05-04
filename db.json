@@ -20,5 +20,12 @@
       "name": "js",
       "id": 8
     }
+  ],
+  "products": [
+    {"name": "apple", "id": 1},
+    {"name": "banana", "id": 2},
+    {"name": "tomatoes", "id": 3},
+    {"name": "strawberry", "id": 4},
+    {"name": "lemon", "id": 5}
   ]
 }
