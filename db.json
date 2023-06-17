@@ -1529,56 +1529,56 @@
       "title": "Комбо от 599 ₽",
       "desc": "Если хочется всего понемногу. Маленькая пицца, закуска, напиток и соус. Цена комбо зависит от выбранных продуктов и может быть увеличена",
       "price": 599,
-      "img": "assets/pizza/1.webp"
+      "img": "assets/combo/1.webp"
     },
     {
       "id": "1235",
       "title": "3 пиццы от 799 ₽",
       "desc": "Настоящая дегустация. Три маленькие пиццы по суперцене. Цена комбо зависит от выбранных пицц и может быть увеличена",
       "price": 799,
-      "img": "assets/pizza/2.webp"
+      "img": "assets/combo/2.webp"
     },
     {
       "id": "1236",
       "title": "2 пиццы",
       "desc": "Парочка что надо. 2 средние пиццы. Цена комбо зависит от выбранных пицц и может быть увеличена",
       "price": 989,
-      "img": "assets/pizza/3.webp"
+      "img": "assets/combo/3.webp"
     },
     {
       "id": "1237",
       "title": "3 пиццы",
       "desc": "Три удовольствия в нашем меню — это 3 средние пиццы на ваш выбор. Цена комбо зависит от выбранных пицц и может быть увеличена",
       "price": 289,
-      "img": "assets/pizza/4.webp"
+      "img": "assets/combo/4.webp"
     },
     {
       "id": "1238",
       "title": "2 пиццы и напиток",
       "desc": "Для уютных посиделок. 2 маленькие пиццы и напиток на выбор. Для компании из 2-4 человек. Цена комбо зависит от выбранных продуктов и может быть увеличена",
       "price": 839,
-      "img": "assets/pizza/5.webp"
+      "img": "assets/combo/5.webp"
     },
     {
       "id": "1239",
       "title": "4 Закуски",
       "desc": "Сытный квартет для маленькой компании. Комбо из четырех закусок на выбор",
       "price": 289,
-      "img": "assets/pizza/6.webp"
+      "img": "assets/combo/6.webp"
     },
     {
       "id": "1240",
       "title": "5 пицц",
       "desc": "5 причин сделать вечеринку вкуснее. 5 средних пицц для компании из 10–15 человек. Цена комбо зависит от выбранных пицц и может быть увеличена",
       "price": 289,
-      "img": "assets/pizza/7.webp"
+      "img": "assets/combo/7.webp"
     },
     {
       "id": "1241",
       "title": "7 пицц",
       "desc": "7 — счастливое число, особенно если речь о 7 средних пиццах на компанию 15-20 человек. Цена комбо зависит от выбранных пицц и может быть увеличена",
       "price": 289,
-      "img": "assets/pizza/8.webp"
+      "img": "assets/combo/8.webp"
     }
   ],
   "snacks": [
@@ -1588,7 +1588,7 @@
       "desc": "Поджаристая чиабатта и знакомое сочетание ветчины, цыпленка, моцареллы со свежими томатами и соусом ранч",
       "price": 229,
       "weight": "210 г",
-      "img": "assets/pizza/1.webp"
+      "img": "assets/snacks/1.webp"
     },
     {
       "id": "1243",
@@ -1596,7 +1596,7 @@
       "desc": "Горячая закуска с цыпленком, моцареллой, митболами, острыми колбасками чоризо и соусом бургер в тонкой пшеничной лепешке",
       "price": 169,
       "weight": "160 г",
-      "img": "assets/pizza/2.webp"
+      "img": "assets/snacks/2.webp"
     },
     {
       "id": "1244",
@@ -1604,7 +1604,7 @@
       "desc": "Запеченная в печи картошечка с сырным соусом",
       "price": 234,
       "weight": "210 г",
-      "img": "assets/pizza/3.webp"
+      "img": "assets/snacks/3.webp"
     },
     {
       "id": "1245",
@@ -1612,7 +1612,7 @@
       "desc": "Горячий сытный обед из куриных крылышек со специями и ароматом копчения, картофеля из печи и соуса барбекю",
       "price": 405,
       "weight": "240 г",
-      "img": "assets/pizza/4.webp"
+      "img": "assets/snacks/4.webp"
     },
     {
       "id": "1246",
@@ -1620,14 +1620,14 @@
       "desc": "Горячий сытный обед из нежных куриных кусочков, картофеля из печи и сырного соуса",
       "price": 315,
       "weight": "200 г",
-      "img": "assets/pizza/5.webp"
+      "img": "assets/snacks/5.webp"
     },
     {
       "id": "1247",
       "title": "Куриные крылья барбекю",
       "desc": "Куриные крылышки со специями и ароматом копчения. В порции присутствуют локтевые и плечевые части крылышек. 10 шт.",
       "price": 415,
-      "img": "assets/pizza/6.webp"
+      "img": "assets/snacks/6.webp"
     },
     {
       "id": "1248",
@@ -1635,7 +1635,7 @@
       "desc": "Сочные кусочки цельного куриного филе с золотистой корочкой",
       "price": 379,
       "weight": "200 г",
-      "img": "assets/pizza/7.webp"
+      "img": "assets/snacks/7.webp"
     },
     {
       "id": "1249",
@@ -1643,7 +1643,7 @@
       "desc": "Цыпленок, свежие листья салата айсберг, томаты черри, сыры чеддер и пармезан, соус цезарь, пшеничные гренки, итальянские травы",
       "price": 230,
       "weight": "190 г",
-      "img": "assets/pizza/8.webp"
+      "img": "assets/snacks/8.webp"
     }
   ],
   "deserts": [
@@ -1653,7 +1653,7 @@
       "desc": "Это что-то на тропическом! Ананас и манговый соус на воздушном слоеном тесте",
       "price": 249,
       "count": 8,
-      "img": "assets/pizza/1.webp"
+      "img": "assets/deserts/1.webp"
     },
     {
       "id": "1251",
@@ -1661,7 +1661,7 @@
       "desc": "Здесь все сразу — брусника и ананас со сгущенкой на слоеном тесте",
       "price": 229,
       "count": 8,
-      "img": "assets/pizza/2.webp"
+      "img": "assets/deserts/2.webp"
     },
     {
       "id": "1252",
@@ -1670,7 +1670,7 @@
       "price": 199,
       "count": null,
       "weight": "0,3 л",
-      "img": "assets/pizza/3.webp"
+      "img": "assets/deserts/3.webp"
     },
     {
       "id": "1253",
@@ -1679,7 +1679,7 @@
       "price": 149,
       "count": null,
       "weight": "100 г",
-      "img": "assets/pizza/4.webp"
+      "img": "assets/deserts/4.webp"
     },
     {
       "id": "1254",
@@ -1688,7 +1688,7 @@
       "price": 149,
       "weight": "100 г",
       "count": null,
-      "img": "assets/pizza/5.webp"
+      "img": "assets/deserts/5.webp"
     },
     {
       "id": "1255",
@@ -1697,7 +1697,7 @@
       "price": 169,
       "count": null,
       "weight": "80 г",
-      "img": "assets/pizza/6.webp"
+      "img": "assets/deserts/6.webp"
     },
     {
       "id": "1256",
@@ -1706,7 +1706,7 @@
       "price": 99,
       "count": null,
       "weight": "120 г",
-      "img": "assets/pizza/7.webp"
+      "img": "assets/deserts/7.webp"
     },
     {
       "id": "1257",
@@ -1715,7 +1715,7 @@
       "price": 95,
       "count": 8,
       "weight": "70 г",
-      "img": "assets/pizza/8.webp"
+      "img": "assets/deserts/8.webp"
     }
   ],
   "drinks": [
@@ -1724,56 +1724,56 @@
       "title": "Добрый Кола",
       "price": 109,
       "weight": "0,5 л",
-      "img": "assets/pizza/1.webp"
+      "img": "assets/drinks/1.webp"
     },
     {
       "id": "1259",
       "title": "Добрый Кола без сахара",
       "price": 109,
       "weight": "0,5 л",
-      "img": "assets/pizza/2.webp"
+      "img": "assets/drinks/2.webp"
     },
     {
       "id": "1260",
       "title": "Добрый Апельсин",
       "price": 109,
       "weight": "0,5 л",
-      "img": "assets/pizza/3.webp"
+      "img": "assets/drinks/3.webp"
     },
     {
       "id": "1261",
       "title": "Добрый Лайм-Лимон",
       "price": 109,
       "weight": "0,5 л",
-      "img": "assets/pizza/4.webp"
+      "img": "assets/drinks/4.webp"
     },
     {
       "id": "1262",
       "title": "Добрый Манго-Маракуйя",
       "price": 109,
       "weight": "0,5 л",
-      "img": "assets/pizza/5.webp"
+      "img": "assets/drinks/5.webp"
     },
     {
       "id": "1263",
       "title": "Rich Tea Черный с лимоном",
       "weight": "0,5 л",
       "price": 109,
-      "img": "assets/pizza/6.webp"
+      "img": "assets/drinks/6.webp"
     },
     {
       "id": "1264",
       "title": "Rich Tea Зеленый",
       "weight": "0,5 л",
       "price": 109,
-      "img": "assets/pizza/7.webp"
+      "img": "assets/drinks/7.webp"
     },
     {
       "id": "1265",
       "title": "Rich Tea Зеленый с манго",
       "price": 119,
       "weight": "0,5 л",
-      "img": "assets/pizza/8.webp"
+      "img": "assets/drinks/8.webp"
     }
   ]
 }
